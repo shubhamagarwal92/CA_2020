@@ -11,7 +11,7 @@ Slides for the `English Teacher` project are in `project_material` folder.
 
 #### Anaconda installation 
 
-If you are not able to install following the instructions mentioned on the Anaconda website, I have created this simple `install_conda.sh` bash script. (Tested for Ubuntu and Mac). Run the bash script as: 
+If you are not able to install following the instructions mentioned on the Anaconda website, I have created [this](https://github.com/shubhamagarwal92/CA_2020/blob/master/install_conda.sh) simple `install_conda.sh` bash script. (Tested for Ubuntu and Mac). Download and run the bash script as: 
 
 ```
 bash install_conda.sh
@@ -29,6 +29,8 @@ Now you can create an environment as:
 `conda create --name test_env python=3.6 -y`
 
 ## Lab exercise for 9/3/2020
-Clone the repo for the lab exercise:
 
+Coming soon!
+
+Clone the repo for the lab exercise:
 `git clone https://github.com/shubhamagarwal92/CA_2020.git`
