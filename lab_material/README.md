@@ -26,5 +26,5 @@ This exercise would also ideally take 15 minutes. Visual Dialog is one of the la
 ## Task 3: Word embedding demo
 
 This exercise is introduced to give you a practical flavor of what was covered in the lectures. Follow the steps provided.
-We highly recommend to use conda for reproducibility. (If things break with installation, we won't be sure otherwise.) 
+We highly recommend to use conda for reproducibility. (If things break with the notebook, we won't be sure otherwise.) 
 
