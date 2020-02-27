@@ -34,7 +34,7 @@ For quick starters, follow the steps provided:
 1. Click on this notebook [link](https://colab.research.google.com/drive/11spXsv4T27c31GJYuG_u_N0NSFTo7cy7). You would be directed to the Google Colab notebook.
 2. Go to `File -> Save a copy in Drive.` 
 This would create a copy of this notebook in your Gdrive under the folder `Colab Notebooks`. You can rename the notebook by also clicking on `Copy of word2vec_word_embeddings.ipynb`. 
-Alternatively, you can directly run this notebook. However you would not be able to edit any part of this notebook and also may find this [warning](https://github.com/shubhamagarwal92/CA_2020/docs/static/images/collab_warning.jpeg). Click on `run anyway`.  
+Alternatively, you can directly run this notebook. However you would not be able to edit any part of this notebook and also may find this [warning](https://github.com/shubhamagarwal92/CA_2020/blob/master/docs/static/images/collab_warning.jpeg). Click on `run anyway`.  
 3. Click on `Connect` button in the top right corner of your copy of the notebook to have some resources allocated to you.
 4. Click `Shift+Enter` to execute each cell.
 
