@@ -19,3 +19,6 @@ conda init bash
 source ~/.bashrc
 
 echo "conda init for bash already setup. Now run:  source ~/.bashrc"
+
+
+# A better version is available at https://github.com/mkocabas/VIBE/blob/master/install_conda.sh
