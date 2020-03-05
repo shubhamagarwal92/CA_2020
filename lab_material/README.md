@@ -1,7 +1,7 @@
 # Lab material for 9/3/2020
 
-Our lab session today will be divided into three small tasks. The purpose of this lab session is to take a tour and get a flavor of the state-of-the-art (SOTA) methods and recent research in NLP and related tasks. 
-Have fun and hopefully get inspired by the recent exciting research.
+Our lab session today will be divided into three small tasks. The purpose of this lab session is to take a tour and get a flavor of the state-of-the-art (SOTA) methods and recent exciting research in NLP and related tasks. 
+Have fun and hopefully get inspired!
 
 ## Task 1: Huggingface transformers demo 
 
@@ -47,3 +47,8 @@ Extra pointers:
 - If you want to understand how to use free Google Colab GPU's, you can have a look at [this](https://medium.com/@oribarel/getting-the-most-out-of-your-google-colab-2b0585f82403).  
 
 - If you are interested in seeing more about the SOTA BERT embeddings please follow the tutorial mentioned in this [blog](https://towardsdatascience.com/bert-visualization-in-embedding-projector-dfe4c9e18ca9).
+
+## Contact
+
+If you face any problem or have doubts, do not hesitate to raise issues. Or mail at `sa201@hw.ac.uk`
+
