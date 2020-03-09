@@ -16,7 +16,7 @@ This exercise would ideally take 15 minutes. The objective of this demo is to un
 
 ## Task 2: Multimodal dialog - Visual Dialog demo
 
-This exercise would also ideally take 15 minutes. Visual Dialog is one of the largest collection of multi-modal dialog currently available also organized as a [challenge](https://visualdialog.org/challenge/2019). In this task also, we will see how these models are still lacking a proper understanding and how they can be repetitive, talk irrelevant things and how current models are still exploiting biases in the dataset that they are trained on. 
+This exercise would also ideally take 15 minutes. Visual Dialog is one of the largest collection of multi-modal dialog currently available also organized as a [challenge](https://visualdialog.org/challenge/2019). In this task also, we will investigate the shortcomings of the current state-of-the-art (SOTA) models and think of the improvements. 
 
 - Go to [demo](http://demo.visualdialog.org/) page. 
 - Click "Hierarchical Recurrent Encoder". ("Late Fusion" not working as of Jan, 2020. Please track [this](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/issues/29).) 
