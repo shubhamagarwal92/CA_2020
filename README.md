@@ -30,7 +30,7 @@ Now you can create an environment as:
 
 ## Lab exercise for 9/3/2020
 
-Coming soon!
+Coming soon! UPDATE: please check the `lab_material` directory.
 
 Clone the repo for the lab exercise:
 `git clone https://github.com/shubhamagarwal92/CA_2020.git`
